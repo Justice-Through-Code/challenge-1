@@ -32,7 +32,7 @@ Start working with variables, math, and printing
 
 #### Now, can you convert back?
 
-4. Convert a temperature of 5 degrees celsius to fahrenheit?
+4. Convert a temperature of 5 degrees celsius to fahrenheit
 5. What is hotter, a temperature of 30.2 degrees celsius, or a temperature of 85.1 degrees fahrenheit?
 
 
