@@ -36,7 +36,7 @@ Start working with variables, math, and printing
 5. What is hotter, a temperature of 30.2 degrees celsius, or a temperature of 85.1 degrees fahrenheit?
 
 
-Follow these instructions in `temp_conversion.py` to convert temperatures between celsius and farenheit, then print them out.
+Follow these instructions in `temp_conversion.py` to convert temperatures between celsius and fahrenheit, then print them out.
 
 ---
 

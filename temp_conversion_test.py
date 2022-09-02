@@ -34,8 +34,8 @@ class TestTempConversion(TestCase):
 
 
     @mock.patch('sys.stdout', new_callable=io.StringIO)
-    def test_convert_5_to_fareinheit(self, mock_stdout):
-        convert_5_to_fareinheit()
+    def test_convert_5_to_fahrenheit(self, mock_stdout):
+        convert_5_to_fahrenheit()
         
         self.assertEqual('41.0\n', mock_stdout.getvalue())
 
