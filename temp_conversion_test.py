@@ -10,7 +10,7 @@ from unittest import mock, TestCase
 from temp_conversion import *
 
 
-class TestHelloWorld(TestCase):
+class TestTempConversion(TestCase):
 
     @mock.patch('sys.stdout', new_callable=io.StringIO)
     def test_convert_100_to_celsius(self, mock_stdout):
