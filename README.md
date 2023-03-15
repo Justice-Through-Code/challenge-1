@@ -42,6 +42,7 @@ Follow these instructions in `temp_conversion.py` to convert temperatures betwee
 0. Accept the challenge via the GitHub Classroom link (if you're already here, you've done this part!)
 1. Clone the repo to your computer
 2. Follow the instructions in `temp_conversion.py` (the only `.py` file that is not a `_test.py` file)
+   - Make sure to run your code often to see what changes you're making, with your computer's version of `python3 temp_conversion.py` in your terminal
 3. Run your computer's version of `python3 -m unittest temp_conversion_test.py` to see if your code works as expected
 4. `git add`, `git commit`, `git push` your code, and look for the little green check mark on your repo that tells you your tests passed
 
